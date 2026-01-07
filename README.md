@@ -4,13 +4,13 @@ I’m an Informatics graduate with experience in web development, data analysis,
 
 🧠 Core Skills
 <br>
-**Web Development**
+##Web Development
 * PHP (CodeIgniter 3, Laravel)
 * HTML, CSS, JavaScript
 * Bootstrap
 * MySQL
 
-**Data & Analytics**
+##Data & Analytics
 * Python, R
 * Data preprocessing & analysis
 * Feature selection & model evaluation
@@ -20,7 +20,7 @@ I’m an Informatics graduate with experience in web development, data analysis,
 * Feature engineering
 * Fuzzy Inference System (Tsukamoto)
 
-**Professional Skills**
+##Professional Skills
 * Technical documentation & reporting
 * Project coordination
 * Problem-solving
