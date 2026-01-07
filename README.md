@@ -26,6 +26,7 @@ I’m an Informatics graduate with experience in web development, data analysis,
 * Communication & teamwork
 
 🎯 Career Focus
+
 I’m currently focusing on a hybrid path between Web Development and Data/Analytics, with an interest in:
 * Building data-driven web applications
 * Developing dashboards and reporting tools
