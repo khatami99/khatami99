@@ -2,14 +2,17 @@
 <br>
 I’m an Informatics graduate with experience in web development, data analysis, and applied machine learning. I’ve worked on real-world systems ranging from government information systems to decision support systems and data-driven analysis, with hands-on experience in both academic research and professional environments. I enjoy building practical solutions, learning continuously, and bridging technical work with real operational needs.
 
-🧠 Core Skills  
-**Web Development**  
+🧠 Core Skills
+<br>
+**Web Development**
+<br>
 * PHP (CodeIgniter 3, Laravel)
 * HTML, CSS, JavaScript
 * Bootstrap
 * MySQL
 
-**Data & Analytics**  
+**Data & Analytics**
+<br>
 * Python, R
 * Data preprocessing & analysis
 * Feature selection & model evaluation
@@ -19,13 +22,15 @@ I’m an Informatics graduate with experience in web development, data analysis,
 * Feature engineering
 * Fuzzy Inference System (Tsukamoto)
 
-**Professional Skills**  
+**Professional Skills**
+<br>
 * Technical documentation & reporting
 * Project coordination
 * Problem-solving
 * Communication & teamwork
 
-🎯 Career Focus  
+🎯 Career Focus
+<br>
 I’m currently focusing on a hybrid path between Web Development and Data/Analytics, with an interest in:  
 * Building data-driven web applications
 * Developing dashboards and reporting tools
