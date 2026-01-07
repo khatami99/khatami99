@@ -4,7 +4,7 @@ I’m an Informatics graduate with experience in web development, data analysis,
 
 🧠 Core Skills
 <br>
-##Web Development
+## Web Development
 * PHP (CodeIgniter 3, Laravel)
 * HTML, CSS, JavaScript
 * Bootstrap
