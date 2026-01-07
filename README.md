@@ -1,8 +1,8 @@
 👋 Hi, I’m Muhammad Sauqi Khatami
-
+<br>
 I’m an Informatics graduate with experience in web development, data analysis, and applied machine learning. I’ve worked on real-world systems ranging from government information systems to decision support systems and data-driven analysis, with hands-on experience in both academic research and professional environments. I enjoy building practical solutions, learning continuously, and bridging technical work with real operational needs.
 
-🧠 Core Skills
+🧠 Core Skills  
 **Web Development**
 * PHP (CodeIgniter 3, Laravel)
 * HTML, CSS, JavaScript
@@ -25,8 +25,7 @@ I’m an Informatics graduate with experience in web development, data analysis,
 * Problem-solving
 * Communication & teamwork
 
-🎯 Career Focus
-
+🎯 Career Focus  
 I’m currently focusing on a hybrid path between Web Development and Data/Analytics, with an interest in:
 * Building data-driven web applications
 * Developing dashboards and reporting tools
