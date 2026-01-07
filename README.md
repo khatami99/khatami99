@@ -1,16 +1,63 @@
-## Hi there 👋
+👋 Hi, I’m Muhammad Sauqi Khatami
 
-<!--
-**khatami99/khatami99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an Informatics graduate with experience in web development, data analysis, and applied machine learning. I’ve worked on real-world systems ranging from government information systems to decision support systems and data-driven analysis, with hands-on experience in both academic research and professional environments. I enjoy building practical solutions, learning continuously, and bridging technical work with real operational needs.
 
-Here are some ideas to get you started:
+🧠 Core Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Web Development
+
+PHP (CodeIgniter 3, Laravel)
+
+HTML, CSS, JavaScript
+
+Bootstrap
+
+MySQL
+
+Data & Analytics
+
+Python, R
+
+Data preprocessing & analysis
+
+Feature selection & model evaluation
+
+Tableau, Looker Studio
+
+Machine Learning
+
+Classification models
+
+Feature engineering
+
+Fuzzy Inference System (Tsukamoto)
+
+Professional Skills
+
+Technical documentation & reporting
+
+Project coordination
+
+Problem-solving
+
+Communication & teamwork
+
+🎯 Career Focus
+
+I’m currently focusing on a hybrid path between Web Development and Data/Analytics, with an interest in:
+
+Building data-driven web applications
+
+Developing dashboards and reporting tools
+
+Applying analytics and ML to real operational problems
+
+Long-term, I aim to grow as a Web Developer with strong data and analytical capabilities.
+
+📫 Let’s Connect!
+
+📧 Email: sauqikhatami084@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/sauqikhatami99
+
+✨ Always learning, always building.
